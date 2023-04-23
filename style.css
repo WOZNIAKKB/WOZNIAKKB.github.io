@@ -15,7 +15,7 @@ header {
     align-items: center;
     position: sticky;
     top:0;
-    background-color: rgb(219, 77, 157);
+    background-color: rgb(202, 158, 183);
 }
 
 .mainPageLink {
@@ -26,6 +26,7 @@ header {
 h1{
     margin: 0;
     font-size: 1.5rem;
+    background-color: rgb(247, 228, 241);
 }
     
 .navUL{
@@ -71,7 +72,7 @@ picture{
 img{  
     height: 250px;
     width: 250px;
-    padding: 1 rem;
+    padding: 1rem;
     }
 
 footer{
