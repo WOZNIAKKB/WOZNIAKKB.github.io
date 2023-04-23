@@ -68,9 +68,11 @@ picture{
 
 
 
-img{
-    max-width:80%;    
-}
+img{  
+    height: 250px;
+    width: 250px;
+    padding: 1 rem;
+    }
 
 footer{
     background-color: black;
